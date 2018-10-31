@@ -1,5 +1,5 @@
 # Google Apps Script Project: cSheetExec
-This repo (cSheetExec) was automatically updated on 27 July 2016 10:38:54 BST by GasGit
+This repo (cSheetExec) was automatically updated on 31 October 2018 11:38:05 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cSheetExec
@@ -10,11 +10,14 @@ The shared link for [cSheetExec is here](https://script.google.com/d/1zbtiz6OG-2
 *name*|*type*
 --- | --- 
 Code| server_js
+appsscript| json
 ### Directly referenced libraries
 no libraries discovered
 ### All dependencies and sub dependencies
 no libraries discovered
 ### Enabled Google Services
 no libraries discovered
-###Need more detail ?
+### Scopes required
+no scopes discovered
+### Need more detail ?
 You can see [full project info as json here](info.json)
